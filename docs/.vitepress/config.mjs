@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  outDir: "docs/.vitepress/dist",
   title: "Zumrah Tarbawiyyah",
   description: "Tarbiah teras kegemilangan umat",
   themeConfig: {
