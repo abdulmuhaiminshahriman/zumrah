@@ -6,9 +6,6 @@ hero:
   name: "Zumrah Tarbawiyyah"
   text: "Jom Bersama Kami Bina Potensi Diri"
   tagline: "Tarbiah Kasi Pekat"
-  image:
-    src: /logo.png
-    alt: VitePress
   actions:
     - theme: brand
       text: Sertai Kami
@@ -19,6 +16,9 @@ hero:
     - theme: alt
       text: Tentang Kami
       link: /api-examples
+  image:
+    src: /vitepress-logo-large.webp
+    alt: VitePress
 
 features:
   - title: Kemurabbian
@@ -34,9 +34,9 @@ features:
 <br />
 <br />
 
-## Getting Started
+## Fokus Tarbiah
 
-You can get started using VitePress right away using `npx`!
+Segalanya bermula dengan tarbiah. `السلام` adalah perkataan dalam bahasa arab.
 
 ```sh
 npm init
